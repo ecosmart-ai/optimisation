@@ -1,0 +1,16 @@
+Optimisation repository includes ,practical use cases of optimisation techniques :
+
+
+Minimising the cost  :
+- Warehouse orders optimisation from several providers to minimize the total cost
+- reinforced learning : process optimisation reducing the time of moves in a warehouse of a robot machine
+
+
+Creating new features for a dataset with weak number of features:
+- new feature creation with maximum correlations with labels
+
+
+Increasing the revenue :
+- Find the best discount to reduce cost of marketing and increasing the ROI
+
+
