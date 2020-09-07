@@ -16,5 +16,5 @@ Increasing the revenue :
 
 Engineering applications:
 -Reduce energy consumtpion of complex energy network systems
--Optimise electic consumption from indidividaul homes
+-Optimise electic consumption from indidividaul homes (search for use cases)
 
